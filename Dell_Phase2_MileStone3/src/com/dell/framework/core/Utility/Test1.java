@@ -10,7 +10,9 @@ public class Test1 {
 		
 		WebDriver driver  = Driver1.getDriver();
 		driver.get("https://gmail.com");
+		System.out.println("Changes are made");
 		
 	}
+	
 
 }
