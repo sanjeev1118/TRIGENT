@@ -33,6 +33,7 @@ public class NewTest {
 	  System.out.println("The title of the webpage is:- "+driver.getTitle());
 	  Thread.sleep(1000);
 	  driver.quit();
+	  System.out.println("Execution done");
   }
 
 }
